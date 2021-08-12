@@ -1,2 +1,3 @@
 # hello.world
-just another repository
+hi everyone, I am sammon. 
+I a very pleaseed to be here
